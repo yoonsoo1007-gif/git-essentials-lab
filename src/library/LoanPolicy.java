@@ -1,4 +1,4 @@
-﻿package library;
+package library;
 
 public class LoanPolicy {
     public int maxBooks(MemberType type) { 
